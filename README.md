@@ -23,8 +23,9 @@ Python · API · Парсинг · Telegram-боты · n8n · Базы данн
 | **⚡ n8n / Make / Zapier** | No-code workflow: RSS → Telegram, CRM → Sheets, уведомления, автоматизация рутины |
 | **🗄 Базы данных и очереди** | PostgreSQL, SQLite, ClickHouse, Redis, Celery, Kafka. Хранение под нагрузку |
 | **📊 Отчётность и аналитика** | Pandas, openpyxl, Excel с макросами, PDF, дашборды. Не сырые данные — а решения |
+| **🪟 Скрипты Windows** | Автоматизация рутины: batch-обработка, мониторинг папок, Excel-отчёты |
 | **🐳 Инфраструктура** | Docker, GitHub Actions CI/CD, деплой, мониторинг, логирование |
-| **🤖 AI-ускоренная разработка** | Codex CLI, AI-агенты, генерация кода, интеграция LLM. Скорость ×3 |
+| **🤖 AI-разработка** | OpenAI API, function calling, AI-агенты, Codex CLI, генерация кода |
 
 ---
 
@@ -52,6 +53,7 @@ Python · API · Парсинг · Telegram-боты · n8n · Базы данн
 ![Docker](https://img.shields.io/badge/Docker-Container-2496ED?style=for-the-badge&logo=docker)
 ![GitHub Actions](https://img.shields.io/badge/CI/CD-Actions-2088FF?style=for-the-badge&logo=githubactions)
 ![Git](https://img.shields.io/badge/Git-Control-F05032?style=for-the-badge&logo=git)
+![OpenAI](https://img.shields.io/badge/OpenAI-API-412991?style=for-the-badge&logo=openai)
 
 ---
 
@@ -63,6 +65,10 @@ Python · API · Парсинг · Telegram-боты · n8n · Базы данн
 | [⚡ n8n-workflow-automation](https://github.com/Shamanchi/n8n-workflow-automation) | No-code workflow: RSS → фильтрация → Telegram | n8n, RSS, Telegram API |
 | [🔌 python-api-integrator](https://github.com/Shamanchi/python-api-integrator) | REST API клиент с retry, backoff, Pydantic-валидацией | Python, requests, Pydantic |
 | [🕷 advanced-marketplace-scraper](https://github.com/Shamanchi/advanced-marketplace-scraper) | Архитектура промышленного парсера. 100K+/сутки, CDP, прокси-пулы | Python, CDP, Playwright, Redis, Celery |
+| [✅ fastapi-task-manager](https://github.com/Shamanchi/fastapi-task-manager) | REST API на FastAPI + PostgreSQL + Docker | FastAPI, Pydantic, SQLAlchemy |
+| [🪟 windows-file-automator](https://github.com/Shamanchi/windows-file-automator) | Автоматизация Windows: мониторинг, batch, Excel | Python, watchdog, openpyxl |
+| [🐳 docker-cicd-template](https://github.com/Shamanchi/docker-cicd-template) | Шаблон Docker + GitHub Actions CI/CD | Docker, GitHub Actions |
+| [🤖 ai-openai-assistant](https://github.com/Shamanchi/ai-openai-assistant) | AI-ассистент с function calling | Python, OpenAI API |
 
 ---
 
