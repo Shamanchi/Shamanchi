@@ -97,6 +97,8 @@ Python · API · Парсинг · Telegram-боты · n8n · Базы данн
 Telegram: [@PavelYrevichh](https://t.me/PavelYrevichh)  
 Email: [Lietman46@mail.ru](mailto:Lietman46@mail.ru)  
 
+**Наш сайт:** [shamanchi-orbit](https://shamanchi.github.io/shamanchi-orbit/)  
+
 
 </div>
 
