@@ -3,7 +3,7 @@
 Большинство бизнесов управляют процессами, которых не существует.
 Мы находим скрытые орбиты и запускаем их.
 
-Telegram: @PavelYrevichh | Email: lietman46@mail.com
+Telegram: @Shamanchii | Email: lietman46@mail.com
 
 ---
 
@@ -79,5 +79,5 @@ Telegram: @PavelYrevichh | Email: lietman46@mail.com
 Вход начинается с аудита. 30 минут. Бесплатно. Не все проходят.
 
 Если вы готовы увидеть скрытое — напишите.
-Telegram: @PavelYrevichh (ответ за 15 мин в рабочее время)
+Telegram: @Shamanchii (ответ за 15 мин в рабочее время)
 Email: lietman46@mail.com
