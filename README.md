@@ -3,7 +3,7 @@
 Большинство бизнесов управляют процессами, которых не существует.
 Мы находим скрытые орбиты и запускаем их.
 
-Telegram: @Shamanchii | Email: lietman46@mail.com
+Telegram: @Shamanchii | Email: shamanchi_dev@mail.ru
 
 ---
 
@@ -80,4 +80,4 @@ Telegram: @Shamanchii | Email: lietman46@mail.com
 
 Если вы готовы увидеть скрытое — напишите.
 Telegram: @Shamanchii (ответ за 15 мин в рабочее время)
-Email: lietman46@mail.com
+Email: shamanchi_dev@mail.ru
