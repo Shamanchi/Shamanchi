@@ -3,7 +3,7 @@
 Большинство бизнесов управляют процессами, которых не существует.
 Мы находим скрытые орбиты и запускаем их.
 
-Telegram: @shamanchi_dev | Email: shamanchi_dev@mail.ru
+Telegram: [@shamanchi_dev](https://t.me/shamanchi_dev) · Email: [shamanchi_dev@mail.ru](mailto:shamanchi_dev@mail.ru) · GitHub: [github.com/Shamanchi](https://github.com/Shamanchi)
 
 ---
 
@@ -79,5 +79,5 @@ Telegram: @shamanchi_dev | Email: shamanchi_dev@mail.ru
 Вход начинается с аудита. 30 минут. Бесплатно. Не все проходят.
 
 Если вы готовы увидеть скрытое — напишите.
-Telegram: @shamanchi_dev (ответ за 15 мин в рабочее время)
-Email: shamanchi_dev@mail.ru
+Telegram: [@shamanchi_dev](https://t.me/shamanchi_dev) — ответ за 15 минут в рабочее время
+Email: [shamanchi_dev@mail.ru](mailto:shamanchi_dev@mail.ru)
